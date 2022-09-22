@@ -87,3 +87,4 @@ function texttolatexlanguage() {
         console.log(letters1[text.charAt(i)])
       }
 }
+//it does not work this is literally niko code
